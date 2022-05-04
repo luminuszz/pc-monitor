@@ -3,6 +3,7 @@
     "allowJs": true,
     "module": "commonjs",
     "skipLibCheck": true,
+    "jsx": "react",
     "esModuleInterop": true,
     "noImplicitAny": true,
     "sourceMap": true,
